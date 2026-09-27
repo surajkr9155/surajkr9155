@@ -77,7 +77,7 @@ Collection of C++ programs demonstrating programming fundamentals, OOP concepts,
 
 ## 📫 Connect With Me
 
-* GitHub: [@surajkr9155](https://github.com/your-username)
+* GitHub: [@surajkr9155](https://github.com/surajkr9155)
 
 ---
 

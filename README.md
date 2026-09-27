@@ -39,21 +39,6 @@ Welcome to my GitHub profile! I'm passionate about building projects, learning n
 
 ---
 
-## 📌 Featured Projects
-
-### 📊 Khushi Store Annual Sales Analysis
-
-Excel-based sales analysis and interactive dashboard.
-
-**Skills:** Excel • Data Cleaning • Pivot Tables • Data Visualization
-
-### 💻 C++ Projects
-
-Collection of C++ programs demonstrating programming fundamentals, OOP concepts, and problem-solving.
-
-**Skills:** C++ • OOP • Problem Solving
-
----
 
 ## 📈 Currently Learning
 

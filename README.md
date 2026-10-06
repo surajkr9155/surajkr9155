@@ -1,68 +1,40 @@
-# Hi 👋, I'm Suraj Kumar
+Hi 👋, I'm Suraj Kumar
 
-### 💻 Aspiring Software Developer | 📊 Data Analytics Enthusiast
+📊 Aspiring Data Analyst | B.Tech Student
 
-Welcome to my GitHub profile! I'm passionate about building projects, learning new technologies, and solving real-world problems through code and data.
+I'm a B.Tech student passionate about Data Analytics and turning raw data into meaningful insights. I'm continuously learning and building projects using data analysis and visualization tools.
 
----
+🛠️ Skills & Tools
 
-## 🚀 About Me
+- 🐍 Python — Pandas, NumPy, Matplotlib
+- 🗄️ SQL — Data querying & analysis
+- 📊 Power BI — Dashboards & Data Visualization
+- 📑 Excel — Data Cleaning, Analysis & Visualization
 
-* 🎓 Student & Tech Enthusiast
-* 💻 Learning C++ and Software Development
-* 📊 Interested in Data Analysis & Visualization
-* 🌱 Currently improving my programming and problem-solving skills
-* 🔨 Building practical projects to strengthen my technical skills
+📈 What I'm Learning
 
----
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- SQL for Data Analytics
+- Power BI Dashboard Development
+- Statistics for Data Analysis
 
-## 🛠️ Tech Stack
+🚀 Projects
 
-**Programming**
+🔹 Data Analysis Projects — Exploring datasets and finding meaningful insights
+🔹 Power BI Dashboards — Interactive dashboards and visual reports
+🔹 Python Data Analysis — Data cleaning, EDA and visualization using Python
+🔹 Excel Analytics — Reports, dashboards and data-driven analysis
 
-* C++
-* SQL
-* Python
+🎯 Goal
 
-**Data & Analytics**
+My goal is to become a skilled Data Analyst and use data to solve real-world problems and support better decision-making.
 
-* Microsoft Excel
-* Pivot Tables
-* Data Visualization
-* Dashboard Creation
+📫 Connect With Me
 
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
----
-
-
-## 📈 Currently Learning
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* SQL
-* Data Analytics
-* Git & GitHub
-
----
-
-## 🎯 2026 Goals
-
-* Build more real-world projects
-* Improve DSA and problem-solving
-* Learn advanced SQL
-* Create professional data-analysis dashboards
-* Contribute to open-source projects
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [@surajkr9155](https://github.com/surajkr9155)
+- 💼 LinkedIn: https://www.linkedin.com/in/suraj-kumar-978540339
+- 📧 Email: surajkumar907545@gmail.com
 
 ---
 
